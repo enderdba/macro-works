@@ -24,7 +24,7 @@ function EmailForm(props) {
       setBody(encodeURI(`mailto:${values.email}?subject=Your Macros&body=${prop.carb} ${prop.fat} ${prop.protein}`))
       setTimeout(()=> {
         document.querySelector("#mailto").click()
-      },500)
+      },1000)
     }
   }
   return (
