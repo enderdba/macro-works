@@ -42,7 +42,7 @@ function Handle({ // your handle component
         textAlign: 'center',
         cursor: 'pointer',
         borderRadius: '50%',
-        backgroundColor: '#D8A3C1',
+        backgroundColor: '#FF66C4',
         color: '#333',
       }}
       {...getHandleProps(id)}
@@ -59,7 +59,7 @@ function Track({ source, target, getTrackProps }) {
         height: 10,
         zIndex: 1,
         marginTop: 35,
-        backgroundColor: '#FFD8EB',
+        backgroundColor: '#ff99d6',
         borderRadius: 5,
         cursor: 'pointer',
         left: `${source.percent}%`,

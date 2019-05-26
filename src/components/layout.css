@@ -7,7 +7,7 @@ body {
   margin:0 auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color:#eeedf0 !important;
+  background-color:#ffffff !important;
 }
 article,
 aside,
@@ -919,9 +919,9 @@ kbd {
 .section{
 /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e8e8e8+0,ffffff+22,ffffff+100,ffffff+100 */
 background: #e8e8e8; /* Old browsers */
-background: -moz-linear-gradient(top, #e8e8e8 0%, #ffffff 22%, #ffffff 100%, #ffffff 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, #e8e8e8 0%,#ffffff 22%,#ffffff 100%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, #e8e8e8 0%,#ffffff 22%,#ffffff 100%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+background: -moz-linear-gradient(top, #e8e8e8 0%, #f9f9f9 22%,#fbfbfb 100%,#ffffff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #e8e8e8 0%,#f9f9f9 22%,#fbfbfb 100%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #e8e8e8 0%,#f9f9f9 22%,#fbfbfb 100%,#ffffff 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8e8e8', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */padding: 1em 15%;
 text-align:center;
 padding: 2em 20%;
@@ -953,7 +953,7 @@ margin: 0;
 }
 
 .btn-group{
-  border: 3px solid #D8A3C1;
+  border: 3px solid #ff99d6;
   border-radius: .25rem;
   padding: 2.5px;
 }
