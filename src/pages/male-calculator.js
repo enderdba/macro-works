@@ -6,6 +6,7 @@ import SEO from "../components/seo"
 import SlideBar from "../components/slidebar"
 import EmailForm from "../components/emailform"
 import ButtonBar from "../components/buttonbar"
+import mheader from "../images/male.png"
 import { cHeightm, cWeight, cActivitym, cLiftingm, cPercentage, cCardiom, cTotal } from "./util"
 import "bootstrap-css-only"
 
@@ -61,6 +62,9 @@ function IndexPage() {
     <Layout >
       <div className="male">
         <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+        <div style={{ textAlign: 'center' }}>
+          <img src={mheader} ></img>
+        </div>
         <div className="section">
           <h5>Age</h5>
           <p>How <strong>old</strong> are you?</p>
@@ -122,7 +126,7 @@ function IndexPage() {
         <div className="section">
           <h5>Where should we send your macros?</h5>
           <p>Write down your email and name</p>
-          <EmailForm finalReport={calculate}/>
+          <EmailForm finalReport={calculate} />
         </div>
       </div>
     </Layout>
