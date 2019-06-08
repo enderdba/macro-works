@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=GFS+Didot&display=swap');
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -272,6 +273,7 @@ h3 {
   font-size: 1.38316rem;
   line-height: 1.1;
 }
+
 h4 {
   margin-left: 0;
   margin-right: 0;
@@ -299,7 +301,7 @@ h5 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: didot;
+  font-family: 'GFS Didot', serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 0.85028rem;
@@ -1056,11 +1058,6 @@ margin: 0;
 
 .form-group input{
   border-radius: 2em;
-}
-
-@font-face {
-  font-family: didot;
-  src: url("./fonts/didot.otf") format("opentype");
 }
 
 @font-face {
