@@ -17,7 +17,7 @@ const Header = ({ siteTitle }) => (
     <h1 style={{ margin: '0px auto' , maxWidth: '960px', padding: '1em'}}>
       <Link
         to="/"
-        style={{ ...linkStyle, backgroundColor: "#FF66C4" }}
+        style={{ ...linkStyle, backgroundColor: "#EB897C" }}
       >
         Female Calculator
         </Link>

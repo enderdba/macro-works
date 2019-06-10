@@ -301,7 +301,7 @@ h5 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'GFS Didot', serif;
+  font-family: futura;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 0.85028rem;
@@ -944,7 +944,7 @@ margin: 0;
 }
 
 .btn-primary{
-  background-color:#FF66C4 !important;
+  background-color:#EB897C !important;
   color: white !important;
   border: unset;
 }
@@ -954,7 +954,7 @@ margin: 0;
 }
 
 .btn-group{
-  border: 3px solid #FF66C4;
+  border: 3px solid #EB897C;
   border-radius: .25rem;
   padding: 2.5px;
 }
@@ -964,7 +964,7 @@ margin: 0;
 }
 
 .btn-group .active{
-  background-color:#FFD8EB;
+  background-color:rgb(231, 180, 173);
   color: #676767  !important;
 }
 
