@@ -1831,7 +1831,7 @@ bootstrap-slider@^10.6.1:
   resolved "https://registry.yarnpkg.com/bootstrap-slider/-/bootstrap-slider-10.6.1.tgz#d9e4b1c327fa4eafc34a52ec01fc4e58b5266889"
   integrity sha512-lA6SwGr33YcKHtpt0lYjwspc4RCgM2bdrFdHU1U77Lal6gZGjVF/Ii9/Mff0b1dyZ4RvSAzaOlSsuY1d5wCtdA==
 
-bootstrap@^3:
+bootstrap@^3.4.1:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-3.4.1.tgz#c3a347d419e289ad11f4033e3c4132b87c081d72"
   integrity sha512-yN5oZVmRCwe5aKwzRj6736nSmKDX7pLYwsXiCj/EYmo16hODaBiT4En5btW/jhBF/seV+XMx3aYwukYC3A49DA==
@@ -7105,9 +7105,9 @@ mkdirp@0.5.1, mkdirp@0.5.x, mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.0, mkdirp@
     minimist "0.0.8"
 
 moment@^2.21.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 move-concurrently@^1.0.1:
   version "1.0.1"
